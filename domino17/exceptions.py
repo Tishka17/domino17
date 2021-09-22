@@ -1,0 +1,2 @@
+class DominoException(Exception):
+    pass
